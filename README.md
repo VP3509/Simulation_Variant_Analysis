@@ -23,11 +23,11 @@ complete data analytics pipeline.
 
 | Category | Tools |
 |---|---|
-| Data Generation & Cleaning | Python, pandas, numpy |
+| Data Cleaning | Python, pandas, numpy |
 | Visualization | matplotlib, seaborn |
 | Statistical Analysis | scipy, statsmodels, scikit-learn |
 | Dashboard | Tableau Public |
-| Report | reportlab (PDF), docx (Word) |
+| Report | reportlab (PDF) |
 | Domain | CAE, FEA, Mechanical Engineering |
 
 ---
@@ -51,19 +51,15 @@ structural-fea-dashboard/
 │
 ├── data/
 │   ├── raw/
-│   │   └── fea_simulation_raw.csv       ← dirty dataset (13 errors)
+│   │   └── fea_simulation_raw.csv       ← messy dataset 
 │   └── processed/
-│       └── fea_simulation_clean.csv     ← cleaned dataset
+│       └── Simulation_data_Cleaned_with_pandas.csv     ← cleaned dataset
 │
 ├── notebooks/
-│   ├── 01_data_generation.py            ← synthetic dataset generation
-│   ├── 02_data_cleaning.ipynb           ← 13-step cleaning pipeline
-│   ├── 03_eda.ipynb                     ← exploratory data analysis
-│   └── 04_statistical_analysis.ipynb   ← ANOVA, regression, Pareto
-│
+│   ├── Simulation_Variant_Analysis.ipynb            ← Data Cleaning, EDA, Statistical Analysis
+│   
 ├── reports/
 │   ├── FEA_Findings_Report.pdf          ← 2-page findings summary
-│   └── FEA_Findings_Report.docx         ← editable Word version
 │
 └── README.md
 ```
