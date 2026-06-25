@@ -147,33 +147,10 @@ Dashboard includes 4 pages:
 
 ---
 
-## How to Run
-
-### Prerequisites
-```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn jupyter
-```
-
-### Steps
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/structural-fea-dashboard.git
-cd structural-fea-dashboard
-
-# Run notebooks in order
-jupyter notebook notebooks/01_data_generation.py
-jupyter notebook notebooks/02_data_cleaning.ipynb
-jupyter notebook notebooks/03_eda.ipynb
-jupyter notebook notebooks/04_statistical_analysis.ipynb
-```
-
----
-
 ## Findings Report
 
 Full 2-page findings report available in the `reports/` folder:
 - [FEA_Findings_Report.pdf](reports/FEA_Findings_Report.pdf)
-- [FEA_Findings_Report.docx](reports/FEA_Findings_Report.docx)
 
 ---
 
