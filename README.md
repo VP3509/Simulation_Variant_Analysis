@@ -150,7 +150,7 @@ Dashboard includes 4 pages:
 ## Findings Report
 
 Full 2-page findings report available in the `reports/` folder:
-- [FEA_Findings_Report.pdf](reports/FEA_Findings_Report.pdf)
+- [FEA_Findings_Report.pdf](reports/Simulation_Variant_Analysis.pdf)
 
 ---
 
