@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-orange)
-![Domain](https://img.shields.io/badge/Domain-CAE%20%7C%20Mechanical%20Engineering-darkblue)
+![Domain](https://img.shields.io/badge/Domain-CAE%20%7C%20Durability-darkblue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
