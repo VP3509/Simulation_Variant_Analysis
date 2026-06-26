@@ -59,7 +59,7 @@ structural-fea-dashboard/
 │   ├── Simulation_Variant_Analysis.ipynb            ← Data Cleaning, EDA, Statistical Analysis
 │   
 ├── reports/
-│   ├── FEA_Findings_Report.pdf          ← 2-page findings summary
+│   ├── Simulation_Variant_Analysis.pdf          ← 2-page findings summary
 │
 └── README.md
 ```
